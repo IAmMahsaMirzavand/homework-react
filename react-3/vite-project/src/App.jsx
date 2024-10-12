@@ -11,9 +11,9 @@ function App() {
 
   return (
     <>
-     {/* <Counter/> */}
+     <Counter/>
      {/* <Toggle/> */}
-     <LikeAndDeslike/>
+     {/* <LikeAndDeslike/> */}
 
     </>
   )
